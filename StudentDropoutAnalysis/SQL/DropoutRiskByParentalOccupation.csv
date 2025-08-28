@@ -1,0 +1,205 @@
+MotherOccLabel,FatherOccLabel,TotalStudents,Dropouts,DropoutRate
+Teacher,Worker,1,1,100.00
+Technician,Accountant,3,3,100.00
+Technician,Engineer,4,4,100.00
+Housewife,Businessman,3,3,100.00
+Housewife,Self-Employed,4,4,100.00
+Technician,Professional,2,2,100.00
+"Skilled Worker",Coach,1,1,100.00
+Nurse,Entrepreneur,1,1,100.00
+Retired,"IT Professional",1,1,100.00
+Housewife,"Private Employee",7,7,100.00
+Doctor,Engineer,1,1,100.00
+Professional,Teacher,1,1,100.00
+Student,Self-Employed,1,1,100.00
+Technician,Entrepreneur,1,1,100.00
+Business,Self-Employed,1,1,100.00
+Retired,Artist,1,1,100.00
+Engineer,Technician,1,1,100.00
+Consultant,Freelancer,1,1,100.00
+Doctor,"Government Employee",1,1,100.00
+Doctor,Doctor,1,1,100.00
+Professional,Self-Employed,1,1,100.00
+Technician,Businessman,1,1,100.00
+Student,Engineer,1,1,100.00
+Volunteer,"Teacher Assistant",1,1,100.00
+Technician,Lawyer,5,4,80.00
+Technician,"Government Employee",4,3,75.00
+"Private Employee",Self-Employed,8,6,75.00
+Housewife,Teacher,4,3,75.00
+Worker,Lawyer,8,6,75.00
+Student,Entrepreneur,15,11,73.33
+Business,Worker,7,5,71.43
+Worker,Technician,7,5,71.43
+Technician,Self-Employed,45,32,71.11
+Housewife,Worker,102,69,67.65
+Doctor,Professional,3,2,66.67
+"Government Employee",Worker,3,2,66.67
+Housewife,"Government Employee",3,2,66.67
+Housewife,Engineer,11,7,63.64
+Business,Businessman,9,5,55.56
+Self-Employed,Lawyer,10,5,50.00
+Worker,"Private Employee",10,5,50.00
+"Government Employee",Businessman,6,3,50.00
+Professional,Worker,2,1,50.00
+Nurse,Worker,2,1,50.00
+Housewife,Lawyer,4,2,50.00
+Housewife,Accountant,2,1,50.00
+Technician,"Private Employee",2,1,50.00
+Self-Employed,"Government Employee",4,2,50.00
+Worker,Doctor,2,1,50.00
+Housewife,Doctor,2,1,50.00
+Professional,Professional,13,6,46.15
+"Private Employee",Businessman,31,14,45.16
+Worker,Professional,7,3,42.86
+Teacher,Technician,35,15,42.86
+Worker,"Government Employee",7,3,42.86
+Professional,Accountant,24,10,41.67
+Business,"Private Employee",32,13,40.63
+"Government Employee","Private Employee",30,12,40.00
+Self-Employed,Engineer,5,2,40.00
+Doctor,Accountant,15,6,40.00
+"Private Employee",Teacher,33,13,39.39
+Business,Technician,44,17,38.64
+Teacher,Teacher,92,34,36.96
+Teacher,"Private Employee",28,10,35.71
+Nurse,"Private Employee",89,31,34.83
+Nurse,Professional,95,33,34.74
+Professional,Technician,32,11,34.38
+"Private Employee",Doctor,35,12,34.29
+Teacher,"Government Employee",44,15,34.09
+"Government Employee",Doctor,12,4,33.33
+Doctor,Lawyer,9,3,33.33
+Professional,"Private Employee",12,4,33.33
+"Government Employee",Teacher,18,6,33.33
+Worker,Self-Employed,3,1,33.33
+Nurse,Engineer,101,33,32.67
+Nurse,Technician,740,241,32.57
+"Private Employee","Private Employee",169,55,32.54
+Nurse,Accountant,124,40,32.26
+"Private Employee",Lawyer,119,37,31.09
+Business,Accountant,40,12,30.00
+Worker,Businessman,40,12,30.00
+"Private Employee",Worker,10,3,30.00
+Nurse,Teacher,27,8,29.63
+"Private Employee","Government Employee",71,21,29.58
+Nurse,Doctor,85,25,29.41
+Business,"Government Employee",38,11,28.95
+Teacher,Professional,21,6,28.57
+"Private Employee",Professional,64,18,28.13
+"Government Employee",Professional,29,8,27.59
+Business,Teacher,11,3,27.27
+Nurse,"Government Employee",70,19,27.14
+Professional,Lawyer,148,40,27.03
+"Government Employee","Government Employee",126,34,26.98
+Business,Engineer,193,52,26.94
+Self-Employed,Doctor,56,15,26.79
+"Private Employee",Engineer,102,27,26.47
+Business,Professional,27,7,25.93
+"Private Employee",Accountant,70,18,25.71
+"Government Employee",Engineer,39,10,25.64
+Doctor,Technician,4,1,25.00
+Self-Employed,"Private Employee",4,1,25.00
+"Government Employee",Lawyer,33,8,24.24
+Nurse,Lawyer,215,52,24.19
+Teacher,Lawyer,17,4,23.53
+Teacher,Businessman,17,4,23.53
+Business,Lawyer,98,23,23.47
+Business,Doctor,30,7,23.33
+Teacher,Engineer,30,7,23.33
+"Private Employee",Technician,104,24,23.08
+Nurse,Businessman,26,6,23.08
+Teacher,Doctor,13,3,23.08
+Worker,Teacher,9,2,22.22
+"Government Employee",Technician,40,8,20.00
+Self-Employed,Accountant,5,1,20.00
+Professional,"Government Employee",15,3,20.00
+Other,Coach,5,1,20.00
+Professional,Engineer,19,3,15.79
+Teacher,Accountant,20,3,15.00
+Worker,Engineer,9,1,11.11
+Entrepreneur,"Social Worker",1,0,0.00
+Doctor,"Private Employee",2,0,0.00
+Lawyer,Electrician,1,0,0.00
+Professional,Doctor,4,0,0.00
+"Government Employee",Accountant,15,0,0.00
+"Skilled Worker",Scientist,1,0,0.00
+Technician,Doctor,1,0,0.00
+Technician,Teacher,1,0,0.00
+"Technical Staff",Trader,2,0,0.00
+"Technical Staff","Other Advanced",1,0,0.00
+Lawyer,Farmer,2,0,0.00
+"Technical Staff",Electrician,2,0,0.00
+Researcher,"Hospitality Staff",1,0,0.00
+Lawyer,"Factory Worker",1,0,0.00
+"Technical Staff",Carpenter,1,0,0.00
+"Technical Staff",Coach,5,0,0.00
+Self-Employed,Technician,3,0,0.00
+"Social Worker","Government Employee",1,0,0.00
+Freelancer,Student,1,0,0.00
+Nurse,Self-Employed,2,0,0.00
+"Clerical Staff",Coach,1,0,0.00
+Other,Volunteer,1,0,0.00
+Other,"Teacher Assistant",1,0,0.00
+"Technical Staff",Retailer,2,0,0.00
+"Social Worker",Trader,2,0,0.00
+"Technical Staff",Farmer,2,0,0.00
+Consultant,"Skilled Worker",1,0,0.00
+"Technical Staff",Other,1,0,0.00
+"Technical Staff",Driver,4,0,0.00
+Freelancer,Artist,1,0,0.00
+Other,Driver,1,0,0.00
+Engineer,Professional,1,0,0.00
+"Social Worker",Farmer,2,0,0.00
+Other,Retailer,1,0,0.00
+Technician,Worker,1,0,0.00
+Accountant,"Security Staff",1,0,0.00
+Other,Artist,1,0,0.00
+Accountant,"IT Professional",1,0,0.00
+Accountant,Retailer,1,0,0.00
+Professional,Businessman,1,0,0.00
+"Technical Staff",Mechanic,1,0,0.00
+"Private Employee",Entrepreneur,1,0,0.00
+Freelancer,"Clerical Staff",1,0,0.00
+Retired,Driver,1,0,0.00
+Executive,Mechanic,1,0,0.00
+Engineer,Engineer,1,0,0.00
+"Technical Staff","Security Staff",1,0,0.00
+"Technical Staff",Executive,2,0,0.00
+Volunteer,Plumber,1,0,0.00
+"Skilled Worker",Mechanic,1,0,0.00
+Researcher,Coach,1,0,0.00
+Unemployed,"Private Employee",1,0,0.00
+Other,Electrician,1,0,0.00
+Lawyer,Driver,1,0,0.00
+Consultant,Coach,1,0,0.00
+Consultant,Retired,1,0,0.00
+"Skilled Worker",Artist,1,0,0.00
+Scientist,"Administrative Staff",2,0,0.00
+Self-Employed,Professional,3,0,0.00
+Artist,Plumber,1,0,0.00
+Scientist,Trader,2,0,0.00
+Manager,Retailer,1,0,0.00
+Retired,Freelancer,1,0,0.00
+Retired,"Skilled Worker",1,0,0.00
+Self-Employed,Teacher,1,0,0.00
+Scientist,Plumber,1,0,0.00
+"Skilled Worker","IT Professional",1,0,0.00
+"Administrative Staff","Service Provider",1,0,0.00
+Housewife,Professional,1,0,0.00
+"Technical Staff",Builder,1,0,0.00
+Volunteer,Trader,1,0,0.00
+Lawyer,Coach,1,0,0.00
+Retired,"Clerical Staff",1,0,0.00
+Scientist,"Technical Staff",1,0,0.00
+Lawyer,Researcher,1,0,0.00
+Researcher,"Factory Worker",1,0,0.00
+Lawyer,Carpenter,1,0,0.00
+Engineer,Doctor,1,0,0.00
+"Administrative Staff","Skilled Worker",1,0,0.00
+"Clerical Staff",Driver,1,0,0.00
+Unemployed,Trader,1,0,0.00
+Volunteer,Manager,1,0,0.00
+Housewife,Entrepreneur,1,0,0.00
+"Technical Staff",Consultant,1,0,0.00
+Retired,"Administrative Staff",1,0,0.00
