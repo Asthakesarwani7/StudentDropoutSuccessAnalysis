@@ -42,8 +42,12 @@ It uses **Excel, SQL, Python, Tableau and Visualization** techniques to find pat
 
 ##  Screenshots
 
-![alt text](image.png)
-![alt text](image-1.png)
-![alt text](image-2.png)
-![alt text](RiskFactors&EconomicImpact.png)
-![alt text](DropoutOverview&Demographics.png)
+<img width="879" height="693" alt="image" src="https://github.com/user-attachments/assets/477c3059-16f1-48ff-b55e-089631bff1f6" />
+<img width="719" height="571" alt="image" src="https://github.com/user-attachments/assets/29d0392b-e15a-4fdd-a6d3-a36737ae837f" />
+<img width="703" height="566" alt="image" src="https://github.com/user-attachments/assets/4f9ef8c3-3f20-4dd1-b06f-63cea5d265aa" />
+<img width="718" height="555" alt="image" src="https://github.com/user-attachments/assets/8b06f8f8-c769-4045-abcc-c3cf9898fbca" />
+<img width="1210" height="802" alt="image" src="https://github.com/user-attachments/assets/8422f5d5-029e-43c9-b08d-d8f2943901e6" />
+<img width="1887" height="796" alt="DropoutOverview Demographics" src="https://github.com/user-attachments/assets/8c117306-34d6-467e-a60b-0f9ad4bad7f7" />
+<img width="1890" height="859" alt="RiskFactors EconomicImpact" src="https://github.com/user-attachments/assets/6521d18a-7965-4271-ba8c-a5316e16ac64" />
+
+
