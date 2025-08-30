@@ -1,4 +1,4 @@
-#  Student Dropout & Success Analysis
+#  Student Dropout & Success Rate Analysis
 
 ##  Overview
 This project analyzes student data to understand the factors that contribute to **dropout** and **success**.  
